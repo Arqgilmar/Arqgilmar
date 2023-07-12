@@ -1,4 +1,5 @@
-#** 👋Olá, eu sou Gilmar Correa Morais Junior **
+# Gilmar Correa Morais Junior
+
 ### Arquiteto e Urbanista
 ### Estudante de ADS 2/5
 ### HTML | CSS | JavaScript | GIT | C | Java
