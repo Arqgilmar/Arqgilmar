@@ -1,7 +1,6 @@
 # Gilmar Correa Morais Junior
 
-### Arquiteto e Urbanista
-### Estudante de ADS 2/5
+### Estudante de ADS 5/5
 ### HTML | CSS | JavaScript | GIT | C | Java
 
 ---
